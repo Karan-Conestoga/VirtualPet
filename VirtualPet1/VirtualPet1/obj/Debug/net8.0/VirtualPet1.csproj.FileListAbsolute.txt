@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\bin\Debug\net8.0\VirtualPet1.exe
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\bin\Debug\net8.0\VirtualPet1.deps.json
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\bin\Debug\net8.0\VirtualPet1.runtimeconfig.json
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\bin\Debug\net8.0\VirtualPet1.dll
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\bin\Debug\net8.0\VirtualPet1.pdb
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.AssemblyInfo.cs
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.dll
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\refint\VirtualPet1.dll
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.pdb
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\VirtualPet1.genruntimeconfig.cache
+C:\Users\HP\source\repos\VirtualPet1\VirtualPet1\obj\Debug\net8.0\ref\VirtualPet1.dll
